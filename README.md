@@ -1,22 +1,9 @@
-# Hi , I'm Sritharth 👋  
-AI/ML Enthusiast | Machine Learning Student
+##  From Patterns to Principles: True Intelligence Lies in Abstraction  
 
-## About Me  
-I am a machine learning student, currently pursuing my Bachelor's degree, with a strong emphasis on deep learning and neural networks. My academic focus is on understanding the intricate workings and nature of deep learning models, along with the mathematical principles that underpin them. I am particularly interested in the optimization techniques, backpropagation algorithms, and mathematical foundations such as linear algebra, calculus, and probability theory that drive the efficiency and functionality of neural networks.
+**"Backpropagating through the complexities of intelligence, optimizing gradients in the pursuit of understanding."**  
 
-## Skills  
-- Python, Java, MySQL  
-- Neural Networks and Deep Learning Techniques  
-- Mathematical Foundations: Linear Algebra, Calculus, Probability  
-- Research in Model Optimization and Gradient Descent  
 
-## Research Focus  
-- **Neural Network Architectures**: Understanding the structure and behavior of deep learning models  
-- **Optimization Methods**: Investigating advanced techniques in model training and convergence  
-- **Mathematical Foundations**: Exploring the mathematics behind gradient-based optimization and backpropagation
 
-## Future Goals  
-My goal is to continue my research in neural networks and deep learning, focusing on both the theoretical and practical aspects of these technologies, with a view toward becoming a data professional, to develop  more efficient and scalable AI systems.
-
-## Mail  
-[sritharthreddyanasurya@gmail.com](mailto:sritharthreddyanasurya@gmail.com)
+**Email:** [sritharthreddyanasurya@gmail.com](mailto:sritharthreddyanasurya@gmail.com)  
+**Instagram:** [@Sritharth Reddy](https://instagram.com/i_am_bunny_here)  
+**LinkedIn:** [@Sritharth Reddy](www.linkedin.com/in/sritharth-reddy-anasurya-ba9b2a2a3)  
